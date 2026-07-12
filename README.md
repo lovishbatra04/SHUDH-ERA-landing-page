@@ -3,16 +3,7 @@
 
 Shudh Era is a responsive landing page for an organic products brand built using HTML5, CSS3, and Bootstrap 5. The website showcases natural products with a clean, modern, and user-friendly design.
 
-## 🚀 Live Demo
 
-(Add your GitHub Pages or Netlify link here)
-
-Example:
-https://yourusername.github.io/shudh-era/
-
-## 📸 Preview
-
-(Add a screenshot of your homepage here later)
 
 ## ✨ Features
 
